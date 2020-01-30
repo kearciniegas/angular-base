@@ -1,9 +1,5 @@
 ### app-angular-base
 
-para configurar el repositorio de ceiba como registry de node ejecutar el siguiente comando
-
-```npm config set @ceiba:registry=https://binary.ceiba.com.co/repository/temp-npm/```
-
 Este bloque contiene la estructura necesaria para construir un proyecto en angular siguiendo la guia de estilos de angular. Por favor seleccionar el bloque con el estilo que desee aplicar.
 
 [https://angular.io/guide/styleguide#style-guide](https://angular.io/guide/styleguide#style-guide)
